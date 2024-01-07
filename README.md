@@ -11,7 +11,7 @@
 
 <div align='center'>
     <h1>사전학습</h1>
-    <a href='https://www.youtube.com/watch?v=wcsVjmHrUQg&list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2'/>
-    <a href='https://www.youtube.com/watch?v=ckSdPNKM2pY'/>    
+    <h3>https://www.youtube.com/watch?v=wcsVjmHrUQg&list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2</h3>
+    <h3>href='https://www.youtube.com/watch?v=ckSdPNKM2pY'/></h3>    
 </div>
 
