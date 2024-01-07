@@ -12,6 +12,6 @@
 <div align='center'>
     <h1>사전학습</h1>  
     <h2>엘리의 드림코딩 : https://www.youtube.com/watch?v=wcsVjmHrUQg&list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2</h2>
-    <h3>Restful API : https://www.youtube.com/watch?v=ckSdPNKM2pY'/></h3>    
+    <h2>Restful API : https://www.youtube.com/watch?v=ckSdPNKM2pY</h2>    
 </div>
 
