@@ -15,15 +15,16 @@
         <th>
             엘리의 드림코딩
         </th>
-        <td>
-            <h2>https://www.youtube.com/watch?v=wcsVjmHrUQg&list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2</h2>
-        </td>    
         <th>
             Restful API(반드시 알아야한다)
         </th>
-        <td>
+        <tr>
+            <h2>https://www.youtube.com/watch?v=wcsVjmHrUQg&list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2</h2>
+        </tr>    
+        
+        <tr>
             <h3>https://www.youtube.com/watch?v=ckSdPNKM2pY'/></h3>
-        </td>    
+        </tr>    
     
     </table>
 </div>
