@@ -12,15 +12,15 @@
 <div align='center'>
     <h1>사전학습</h1>
     <table>
-        <tr>
+        <th>
             엘리의 드림코딩
-        </tr>
+        </th>
         <td>
             <h2>https://www.youtube.com/watch?v=wcsVjmHrUQg&list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2</h2>
         </td>    
-        <tr>
+        <th>
             Restful API(반드시 알아야한다)
-        </tr>
+        </th>
         <td>
             <h3>https://www.youtube.com/watch?v=ckSdPNKM2pY'/></h3>
         </td>    
